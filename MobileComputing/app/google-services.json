@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76276179521",
+    "firebase_url": "https://mobile-computing-65747.firebaseio.com",
+    "project_id": "mobile-computing-65747",
+    "storage_bucket": "mobile-computing-65747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76276179521:android:99619a674c827760895cc0",
+        "android_client_info": {
+          "package_name": "id.diana.mobilecomputing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76276179521-38d3430acbnim87ctuf7sfrssgemk5t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKEFb7ksNGqZ_rAVMEAQ9PipqnVApKGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76276179521-38d3430acbnim87ctuf7sfrssgemk5t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
